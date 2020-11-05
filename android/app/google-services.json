@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137791587296",
+    "firebase_url": "https://fcmfirebaseproject-17aa9.firebaseio.com",
+    "project_id": "fcmfirebaseproject-17aa9",
+    "storage_bucket": "fcmfirebaseproject-17aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137791587296:android:1d72d532917a4af86b2185",
+        "android_client_info": {
+          "package_name": "com.kwh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137791587296-q0gkpsdrtespe2qv8kaso72b9e1m61kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kwh",
+            "certificate_hash": "4a6964aa48258b582fc53e6822ae3b3c2963ad8c"
+          }
+        },
+        {
+          "client_id": "137791587296-6gpsc4voimr417e24cdt6smqsdgfb042.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeP6fSU-se2JDmkRGP8z1JZ3BKnwU1GV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137791587296-6gpsc4voimr417e24cdt6smqsdgfb042.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
